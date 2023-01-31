@@ -47,11 +47,11 @@ EverShop is a GraphQL Based and React ecommerce platform with essential commerce
 Explore our demo store.
 
 <p align="center">
-<img alt="EverShop Admin Demo" width="950" src="https://raw.githubusercontent.com/evershopcommerce/evershop/dev/.github/images/evershop-backend-demo.png"/>
+<img alt="EverShop Admin Demo" width="950" src="https://raw.githubusercontent.com/passion-127/evershop/dev/.github/images/evershop-backend-demo.png"/>
 </p>
 <p align="center">
   <a href="https://demo.evershop.io/admin" target="_blank">
-    <img alt="evershop-backend-demo" height="35" alt="EverShop Admin Demo" src="https://raw.githubusercontent.com/evershopcommerce/evershop/dev/.github/images/evershop-admin-demo.png"/>
+    <img alt="evershop-backend-demo" height="35" alt="EverShop Admin Demo" src="https://raw.githubusercontent.com/passion-127/evershop/dev/.github/images/evershop-admin-demo.png"/>
   </a>
 </p>
 <b>Demo user:</b>
@@ -59,11 +59,11 @@ Explore our demo store.
 Email: demo@gmail.com<br/>
 Password: 123456
 <p align="center">
-<img alt="EverShop Store Demo" width="950" src="https://raw.githubusercontent.com/evershopcommerce/evershop/dev/.github/images/evershop-product-detail.png"/>
+<img alt="EverShop Store Demo" width="950" src="https://raw.githubusercontent.com/passion-127/evershop/dev/.github/images/evershop-product-detail.png"/>
 </p>
 <p align="center">
   <a href="https://demo.evershop.io/" target="_blank">
-    <img alt="evershop-store-demo" height="35" alt="EverShop Store Demo" src="https://raw.githubusercontent.com/evershopcommerce/evershop/dev/.github/images/evershop-store-front-demo.png"/>
+    <img alt="evershop-store-demo" height="35" alt="EverShop Store Demo" src="https://raw.githubusercontent.com/passion-127/evershop/dev/.github/images/evershop-store-front-demo.png"/>
   </a>
 </p>
 
@@ -90,21 +90,21 @@ If you like my work, feel free to:
 - ⭐ this repository. It helps.
 - [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)][tweet] about EverShop. Please accept my gratitude.
 
-[tweet]: https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fevershopcommerce%2Fevershop&text=Awesome%20React%20Ecommerce%20Project&hashtags=react,ecommerce,expressjs,graphql
+[tweet]: https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fpassion-127%2Fevershop&text=Awesome%20React%20Ecommerce%20Project&hashtags=react,ecommerce,expressjs,graphql
 ### Ask a question about EverShop
 
 You can ask questions, and participate in discussions about EverShop-related topics in the EverShop Discord channel.
 
-<a href="https://discord.gg/GSzt7dt7RM"><img src="https://raw.githubusercontent.com/evershopcommerce/evershop/dev/.github/images/discord_banner_github.svg" /></a>
+<a href="https://discord.gg/GSzt7dt7RM"><img src="https://raw.githubusercontent.com/passion-127/evershop/dev/.github/images/discord_banner_github.svg" /></a>
 
 ### Create a bug report
 
-If you see an error message or run into an issue, please [create bug report](https://github.com/evershopcommerce/evershop/issues/new). This effort is valued and it will help all EverShop users.
+If you see an error message or run into an issue, please [create bug report](https://github.com/passion-127/evershop/issues/new). This effort is valued and it will help all EverShop users.
 
 
 ### Submit a feature request
 
-If you have an idea, or you're missing a capability that would make development easier and more robust, please [Submit feature request](https://github.com/evershopcommerce/evershop/issues/new).
+If you have an idea, or you're missing a capability that would make development easier and more robust, please [Submit feature request](https://github.com/passion-127/evershop/issues/new).
 
 If a similar feature request already exists, don't forget to leave a "+1".
 If you add some more information such as your thoughts and vision about the feature, your comments will be embraced warmly :)
@@ -117,4 +117,4 @@ Please refer to our [Contribution Guidelines](./CONTRIBUTING.md) and [Code of Co
 
 ## License
 
-[GPL-3.0 License](https://github.com/evershopcommerce/evershop/blob/main/LICENSE)
+[GPL-3.0 License](https://github.com/passion-127/evershop/blob/main/LICENSE)
